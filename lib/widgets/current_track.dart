@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spotify_ui/models/current_track_model.dart';
+import 'package:spotify_ui_clone/models/current_track_model.dart';
 import 'package:provider/provider.dart';
 
 class CurrentTrack extends StatelessWidget {
