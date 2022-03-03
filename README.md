@@ -1,6 +1,6 @@
 # Responsive Spotify UI Clone
 ### A Responsive Spotify Playlist UI built in flutter with BLoC state management.
-## Project ScreenShots:
+### Project ScreenShots:
 
 Desktop Mode             |  Tab/Mobile Mode
 :-------------------------:|:-------------------------:
